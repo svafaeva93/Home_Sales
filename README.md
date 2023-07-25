@@ -1,4 +1,4 @@
-# Home_Sales Challenge 
+# Big Data Challenge 
 
 This challenge involved using knowledge of SparkSQL to determine key metrics about home sales data. Spark was then used to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table had been uncached.
 
